@@ -1,0 +1,21 @@
+{
+  "name": "expressjs",
+  "version": "0.0.0",
+  "description": "testing express js",
+  "main": "index.js",
+  "scripts": {
+    "test": "'"
+  },
+  "keywords": [
+    "expressjs",
+    "testing",
+    "hello",
+    "world"
+  ],
+  "author": "thecodingwhale",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.11.0",
+    "ejs": "^2.1.4"
+  }
+}
